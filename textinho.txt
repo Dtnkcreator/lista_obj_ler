@@ -1,0 +1,3 @@
+Pessoa: Nome: Lindoso ; Idade: 44 ; Peso: 90
+Pessoa: Nome: Paula ; Idade: 19 ; Peso:60
+Pessoa: Nome: Tarcisio ; Idade: 70 ; Peso: 70
